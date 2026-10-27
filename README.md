@@ -278,4 +278,3 @@ All metrics below reflect execution on the **unseen held-out test split of 56,96
 
 ## 🎓 Academic Viva Resources
 - **Comprehensive Project Report**: See [`reports/project_report.md`](reports/project_report.md) for the 21-section academic report (Abstract, Literature Review, Methodology, Architecture, Results, and References).
-- **Viva Preparation Guide**: See [`reports/viva_questions.md`](reports/viva_questions.md) for 36 detailed questions and answers covering ML theory, imbalance handling, Big Data architecture, and confusion matrix defense.
