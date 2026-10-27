@@ -1,0 +1,31 @@
+# Python virtual environments & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+env/
+venv/
+.venv/
+
+# Large raw datasets (user should download or use provided sample)
+# Keep sample datasets tracked
+data/raw/*.csv
+data/processed/spark_aggregated_metrics/
+data/hdfs_storage/fraud_detection/input/creditcard.csv
+
+# Model checkpoints and large files if desired
+# models/*.joblib
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
